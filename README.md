@@ -9,10 +9,10 @@ Having a **growth mindset** means: always *pushing yourself* harder in order to 
 3. Learn from your mistakes and use them as an opportunity to grow
 
 
-Hello my name is Marta Deneke, very excited to start my journy of becoming a software engineer.
-### Contact information:*mrtdeneke@gmail.com*
-
-### Table of Contents
+#### Table of Contents
 - [Class 1 Reading](class1.md)
 - [Class 2 Reading](class2.md)
 - [Class 3 Reading](class3.md)
+
+- Hello my name is Marta Deneke, I am very excited to start my journey of becoming a Software Engineer.
+- Contact information:*mrtdeneke@gmail.com*
