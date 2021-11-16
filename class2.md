@@ -4,8 +4,9 @@
 
 ## Paths: 
 ### Two types of paths we can use:
-  #### 1. Absolute Paths: Begin with (/)
-  #### 2. Relevant Paths: don't start with a slash
+  ### 1. Absolute Paths: Begin with (/)
+  
+  ### 2. Relevant Paths: don't start with a slash
 
 ## Main Page
 - [<===Back](https://denekm.github.io/reading-notes/)
