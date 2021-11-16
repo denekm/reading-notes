@@ -1,5 +1,5 @@
 # Growth Mindset
-Having a **growth mindset** means: always *pushing yourself* harder in order to do better despite the challenges and you face. You might fail during your journey or face different obstacles you should keep in mind you can succeed as long as you don't give up.
+Having a **growth mindset** means: always *pushing yourself* harder in order to do better despite the challenges you face. You might fail during your journey or face different obstacles but you should keep in mind you can succeed as long as you don't give up.
 
 ![1030_power_of_mistakes_FAIL-1030x579](https://user-images.githubusercontent.com/94331519/142051549-fabf080d-853c-414a-b55c-6547a9af6394.jpeg)
 
