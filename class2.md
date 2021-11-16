@@ -3,10 +3,10 @@
 -  Because Linux is case sensitive we have to make sure not to have typos
 
 ## Paths: 
-- Two types of paths we can use:
-  ### 1. Absolute Paths:
+### Two types of paths we can use:
+  #### 1. Absolute Paths:
     - begin with (/)
-  ### 2. Relevant Paths: 
+  #### 2. Relevant Paths: 
 - don't start with a slash
 
 ## Main Page
