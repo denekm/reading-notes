@@ -5,8 +5,8 @@
 - ">" Used to quote a text 
 
 ## Heading Sizes is determined by the number of hashtages
-- # The largest Heading
-- ## Second largest heading
+- "#" The largest Heading
+- "##" Second largest heading
 
 ## Creating a link
 - command + k
