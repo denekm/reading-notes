@@ -4,10 +4,10 @@
 
 ## Paths: 
 - Two types of paths we can use:
-### Absolute Paths:
+#### Absolute Paths:
 - begin with (/)
 
-### Relevant Paths: 
+#### Relevant Paths: 
 - don't start with a slash
 
 ## Main Page
