@@ -1,5 +1,5 @@
 # Growth Mindset
-Having a **growth mindset** means always pushing yourself harder in order to do better. 
+Having a **growth mindset** means: always**pushing***yourself***harder*** in order to do better. 
 Even though there are challenges and you might fail you should keep in mind you can succeed as long as you don't give up.
 
 
@@ -12,4 +12,4 @@ Even though there are challenges and you might fail you should keep in mind you 
 
 
 Hello my name is Marta Deneke, very excited to start my journy of becoming a software engineer.
-###Contact information:mrtdeneke@gmail.com
+###Contact information:*mrtdeneke@gmail.com*
