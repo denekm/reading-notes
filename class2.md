@@ -1,6 +1,8 @@
 # Reading Notes 02: The coder's computer
 - After typing a command feedback is provided to the user
 -  Because Linux is case sensitive we have to make sure not to have typos
+## Opening Terminal on mac
+- Go to **applications** then **utilities**
 
 ## Paths: 
 ### Two types of paths we can use:
