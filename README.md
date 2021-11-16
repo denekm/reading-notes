@@ -4,8 +4,8 @@ Having a **growth mindset** means: always *pushing yourself* harder in order to 
 ![1030_power_of_mistakes_FAIL-1030x579](https://user-images.githubusercontent.com/94331519/142051549-fabf080d-853c-414a-b55c-6547a9af6394.jpeg)
 
 ## Reminders to keep yourself in a growth mindset
-1. Avoid negative talk
-2. Be organized and write down goals
+1. Avoiding negative self-talk
+2. W
 3. Learn from your mistakes and use them as an opportunity to grow
 
 
