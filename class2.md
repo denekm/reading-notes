@@ -15,5 +15,5 @@
 2. Syntax highlighting
 3. Extenstions
 
-## Main Page
+### Home Page
 - [<===Back](https://denekm.github.io/reading-notes/)
