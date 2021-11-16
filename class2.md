@@ -4,9 +4,13 @@
 
 ## Paths: 
 ### Two types of paths we can use:
+- 1. Absolute Paths: Begin with (/)
+- 2. Relevant Paths: don't start with a slash
 
-#### 1. Absolute Paths: Begin with (/)  
-#### 2. Relevant Paths: don't start with a slash
+## The benefits of a good Code Editor
+1. code completions
+2. Syntax highlighting
+3. Extenstions
 
 ## Main Page
 - [<===Back](https://denekm.github.io/reading-notes/)
