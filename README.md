@@ -15,6 +15,6 @@ Hello my name is Marta Deneke, very excited to start my journy of becoming a sof
 ### Contact information:*mrtdeneke@gmail.com*
 
 ### Table of Contents
-- Class 1 Reading (class.md)
+- Class 1 Reading (class1.md)
 - Class 2 Reading
 - Class 3 Reading
