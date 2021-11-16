@@ -11,5 +11,5 @@
 ## Creating a link
 - command + k
 
-## Main Page
+## Home Page
 - [<===Back](https://denekm.github.io/reading-notes/)
