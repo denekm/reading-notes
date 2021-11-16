@@ -2,7 +2,7 @@
 Having a **growth mindset** means: always**pushing***yourself***harder*** in order to do better. 
 Even though there are challenges and you might fail you should keep in mind you can succeed as long as you don't give up.
 
-
+-------------
 
 
 ## Reminders to keep yourself in a growth mindset
