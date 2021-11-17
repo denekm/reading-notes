@@ -1,3 +1,7 @@
+# Introduction
+##### ***Hello my name is Marta Deneke. This is my first step of becoming a Software Engineer and I am very excited for this journey***
+
+
 # Growth Mindset
 Having a **growth mindset** means: always *pushing yourself* harder in order to do better despite the challenges you face. You might fail during your journey or face different obstacles but you should keep in mind you can succeed as long as you don't give up.
 
@@ -14,5 +18,3 @@ Having a **growth mindset** means: always *pushing yourself* harder in order to 
 - [Class 3 Reading](class3.md)
 - [Class 4 Reading](class4.md)
 
-##### ***Hello my name is Marta Deneke, I am very excited to start my journey of becoming a Software Engineer.***
- Contact information:*mrtdeneke@gmail.com*
