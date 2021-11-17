@@ -1,5 +1,5 @@
 # Introduction
-##### ***Hello my name is Marta Deneke. This is my first step of becoming a Software Engineer and I am very excited for this journey***
+***Hi everyone my name is Marta Deneke. This is my first step of becoming a Software Engineer and I am very excited for this journey***
 
 
 # Growth Mindset
