@@ -1,4 +1,4 @@
-# The Definitive Guide: how to make your first wireframe
+# How to Make your First Wireframe
 
 ## Wireframe
 
