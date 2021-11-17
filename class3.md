@@ -12,7 +12,7 @@
 - Helps users track changes in their files
 
 ## What does git commit -m do
--git commit -m "made changes" is commiting a change and recording what was done
+-git commit -m "" is commiting a change and recording what was done
 
 
 
