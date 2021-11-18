@@ -29,3 +29,7 @@ return p1 * p2;   // The function returns the product of p1 and p2
 -The name of the function can contain: numbers, letters, underscores and $ (same for variables)
 -"The parentheses can include parameter names separated by commas : (parameter1,parameter2,...)"
 -"The code to be executed, by the function is placed inside curly brackets:{}
+
+## Home Page
+
+- [<===Back](https://denekm.github.io/reading-notes/)
