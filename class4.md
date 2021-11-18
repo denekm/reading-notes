@@ -16,7 +16,8 @@
 
 1. UxPin
 2. Invision
-3. Balsamiq 
+3. Balsamiq
 
 ## Home Page
-- [<===Back](https://denekm.github.io/reading-notes/)
+
+-[<===Back](https://denekm.github.io/reading-notes/)
