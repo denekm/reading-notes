@@ -1,6 +1,6 @@
 # Dynamic web pages with JavaScript
 
-•What is JavaScript: It is a programming language which lets us apply complex features on our websites.
+•What is JavaScript: It is a programming language which lets us apply complex features on our websites
 •Strings- are pieces of text and it is in quotes
 •(APIs)
 -Application Programming Interfaces

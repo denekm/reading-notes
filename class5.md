@@ -8,7 +8,7 @@
     2. Making our layout.
     3. Animation.
 
-## Example of Mark up Languages 
+## Example of Mark up Languages
 
 - HTML, SVG, XML.
 

@@ -22,3 +22,4 @@ Having a **growth mindset** means: always *pushing yourself* harder in order to 
 - [Class 4 Reading](class4.md)
 - [Class 5 Reading](class5.md)
 - [Class 6 Reading](class6.md)
+- [Class 7 Reading](class7.md)
