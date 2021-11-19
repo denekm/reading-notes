@@ -22,4 +22,4 @@ Conditional statement example: “do you want a to see an image?”
 
 ## Home Page
 
--[<===Back](https://denekm.github.io/reading-notes/)
+[<== Back](https://denekm.github.io/reading-notes/)

@@ -47,4 +47,4 @@ do {
 
 ## Home Page
 
-- [<== Back](https://denekm.github.io/reading-notes/)
+[<== Back](https://denekm.github.io/reading-notes/)
