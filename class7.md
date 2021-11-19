@@ -32,4 +32,4 @@ return p1 * p2;   // The function returns the product of p1 and p2
 
 ## Home Page
 
-- [<===Back](https://denekm.github.io/reading-notes/)
+- [<== Back](https://denekm.github.io/reading-notes/)
