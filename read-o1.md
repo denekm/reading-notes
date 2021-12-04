@@ -16,7 +16,8 @@
 -   <!--comment-->
 -   Block Element Examples:
     -<h1>,<p>,<u1>, and <li>
-- Inline Elements Examples: <a>,<b>,<em>, and <img>  
+- Inline Elements 
+  -Examples: <a>,<b>,<em>, and <img>  
 - *<div>* this element allows us group block-level and inling elements together. 
   
 ## HTML Chapter 17: HTML5 Layout
