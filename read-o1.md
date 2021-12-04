@@ -14,10 +14,6 @@
 - DOCTYPES: every web page should start with "DOCTYPE"
 - How to add a comment on your code that won't be visible to users:
 -   "<! 'two dashes'-comment 'two dashes'->'
--   Block Element Examples:
-    -<h1>,<p>,<u1>, and <li>
-- Inline Elements 
-  -Examples: 
 - *<div>* this element allows us group block-level and inling elements together. 
   
 ## HTML Chapter 17: HTML5 Layout
