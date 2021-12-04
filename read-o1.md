@@ -17,11 +17,14 @@
 -   Block Element Examples:
     -<h1>,<p>,<u1>, and <li>
 - Inline Elements 
-  -Examples: "<a>,<b>,<em>, and <img>"  
+  -Examples: 
 - *<div>* this element allows us group block-level and inling elements together. 
   
 ## HTML Chapter 17: HTML5 Layout
-- Questions we need to ask before creating a webiste:
+
+## HTML Chapter 18: Process & Design 
+
+  - Questions we need to ask before creating a webiste:
     1.  Who is the target audience
     2.  Why would people visit this site
     3.  What are yyour visitors trying to accomplish
@@ -30,8 +33,10 @@
  - After answering these quesions you can use ***site maps*** to organize your secions/pages
  -**Wireframe**- is a sketch of information hat will go on each page of your site
   
-## HTML Chapter 18: Process & Design 
-
 ## Java Script Chapter 1: The ABC of Programming
-
-
+- ***Scipts** are step-by-step instructions that the computer follows.
+- How to Write a script:
+  1. Define the goal
+  2. Design the script
+  3. Code every step 
+  
