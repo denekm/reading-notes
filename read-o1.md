@@ -6,7 +6,7 @@
 -**Elements** : are made of two tags
   1. An Opening tag
   2. A closing tag (contains '/' in it)
-- Elements are used in HTML  in order to descibe how the pages are structureed
+- Elements are used in HTML in order to describe how the pages are structured
 - **Attributes** are made of " a ***name*** and a ***value*** and they are separated with an equal sign.
 - Body, Head and Title
 
@@ -17,12 +17,12 @@
 -   Block Element Examples:
     -<h1>,<p>,<u1>, and <li>
 - Inline Elements 
-  -Examples: <a>,<b>,<em>, and <img>  
+  -Examples: '<a>','<b>','<em>', and '<img>'  
 - *<div>* this element allows us group block-level and inling elements together. 
   
 ## HTML Chapter 17: HTML5 Layout
 
-## HTML Chapter 1: Process & Design 
+## HTML Chapter 18: Process & Design 
 
 ## Java Script Chapter 1: The ABC of Programming
 
