@@ -13,7 +13,7 @@
 ## HTML Chapter 8: Extra Markup
 - DOCTYPES: every web page should start with "DOCTYPE"
 - How to add a comment on your code that won't be visible to users:
--   "<!--comment-->"
+-   "<! 'two dashes'-comment 'two dashes'->'
 -   Block Element Examples:
     -<h1>,<p>,<u1>, and <li>
 - Inline Elements 
