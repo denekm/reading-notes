@@ -3,6 +3,7 @@
 ***Hi everyone my name is Marta Deneke. This is my first step of becoming a Software Engineer and I am very excited for this journey***
 
 ## Code 201 Reading Notees
+
 - [Class 1 Reading](class-01.md)
 - [Class 2 Reading](class-02.md)
 - [Class 3 Reading](class-03.md)
@@ -19,8 +20,6 @@
 - [Class 14 Reading](class-14.md)
 - [Class 15 Reading](class-15.md)
 
-
-
 ### Code 102 Reading Notes
 
 ### Table of Contents
@@ -33,3 +32,7 @@
 - [Class 6 Reading](read6.md)
 - [Class 7 Reading](read7.md)
 - [Class 8 Reading](read8.md)
+
+## Resources Used
+
+- Duckett, John. “HTML &amp; CSS: Design and Build Websites.” Amazon, John Wiley and Sons, 2014.
