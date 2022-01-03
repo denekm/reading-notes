@@ -2,5 +2,4 @@
 
 ## Learn CSS - Layout 
 
-<a href = "https://web.dev/learn/css/layout/"> </a>
-
+![alt text](https://web.dev/learn/css/layout/)
