@@ -1,6 +1,6 @@
 # Course 201 Reading Notes
 
-***Hi everyone my name is Marta Deneke. This is my first step of becoming a Software Engineer and I am very excited for this journey***
+***Hello everyone my name is Marta Deneke. This is my first step of becoming a Software Engineer and I am very excited for this journey***
 
 ## Code 201 Reading Notees
 
