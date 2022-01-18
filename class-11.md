@@ -20,8 +20,8 @@
 
 ### Repeating Images
 
--`repeat` this repeats both horizontally and vertically
--`repeat-x` this repeats the image only horizontally
--`repeat-x` this repeats the image only vertically
--`fixed` this makes it so the background picture is at the same posion on the page
--`scroll` the background image will move up and down when the user is scrolling throughout the page.
+-`repeat` this repeats both horizontally and vertically\
+-`repeat-x` this repeats the image only horizontally\
+-`repeat-x` this repeats the image only vertically\
+-`fixed` this makes it so the background picture is at the same posion on the page\
+-`scroll` the background image will move up and down when the user is scrolling throughout the page\
