@@ -10,22 +10,22 @@
 ### Stepts to Drawing a Line Chart
 
 1. On the body of out HTML page add this:\
-`canvas id id =" " width = " " height = " "></canvas>`\
+`canvas id id =" " width = " " height = " "></canvas>`
 
 2. To retrive the context on the foot of the body element add this:\
-`<script>\var buyers = document.getElementById('buyers').getContext('2d'\);new Chart(buyers).Line(buyerData);\</script>`
+`<script>\var buyers = document.getElementById('buyers').getContext('2d');new Chart(buyers).Line(buyerData);</script>`
 
 3. We then have to create our data for example we can add labels of our chart by:\
-`var buyerData = {\labels : ["January","February","March","April","May","June"],\datasets : [\{`
+`var buyerData = {\labels : ["January","February","March","April","May","June"],datasets : ] {`
 
 ### Drwaing a Pie Chart
 
 1. Follow the same two steps of drawing a line chart
 2. Supply a value and color for each section of the pie chart eg:\
-`var pieData = [\{\value: 20,\color:"#878BB6"\},`\
+`var pieData = {value: 20,color:"#878BB6"},`
 
 3. After the pieData we then add our options eg:\
-`var pieOptions = {\segmentShowStroke : false,\animateScale : true\}`\
+`var pieOptions = {segmentShowStroke : false,animateScale : true}`
 
 ### Drawing a Bar Chart
 
