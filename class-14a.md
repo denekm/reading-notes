@@ -32,5 +32,5 @@
 
 1. `transition-property`
 2. `transition-duration`
-3. ` transition-timing-function`
+3. `transition-timing-function`
 4. `transition-delay`
