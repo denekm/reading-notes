@@ -1,8 +1,10 @@
-# Course 201 Reading Notes
+# Reading Notes
 
-***Hello everyone my name is Marta Deneke. This is my first step of becoming a Software Engineer and I am very excited for this journey***
+***Hello everyone my name is Marta Deneke. This is my first step of becoming a Software Engineer and I am very excited for this journey.  This ***
 
-## Code 201 Reading Notees
+### Code 301 - Intermediate Software Development Reading Notes
+
+## Code 201 - Foundations of Software Development Reading Notees
 
 - [Class 1 Reading](class-01.md)
 - [Class 2 Reading](class-02.md)
@@ -21,7 +23,7 @@
 - [Class 14b Reading](class-14b.md)
 - [Class 15 Reading](class-15.md)
 
-### Code 102 Reading Notes
+### Code 201 - Foundations of Software Development Reading Notes
 
 ### Table of Contents
 
@@ -33,6 +35,8 @@
 - [Class 6 Reading](read6.md)
 - [Class 7 Reading](read7.md)
 - [Class 8 Reading](read8.md)
+
+### Code 401 - Advanced Software Development Reading Notes
 
 ## Resources Used
 
