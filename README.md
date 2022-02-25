@@ -2,7 +2,7 @@
 
 ***Hello everyone my name is Marta Deneke. This is my first step of becoming a Software Engineer and I am very excited for this journey.  This site is created to help me keep track of my observations throughout the courses I will be taking at Code Fellows***
 
-## Code 201 - Intro to Software Development
+## Code 102 - Intro to Software Development
 
 ### Table of Contents
 
