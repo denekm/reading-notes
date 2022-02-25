@@ -1,10 +1,23 @@
 # Reading Notes
 
-***Hello everyone my name is Marta Deneke. This is my first step of becoming a Software Engineer and I am very excited for this journey.  This ***
+***Hello everyone my name is Marta Deneke. This is my first step of becoming a Software Engineer and I am very excited for this journey.  This site is created to help me keep track of my observations throughout the courses I will be taking at Code Fellows***
 
-### Code 301 - Intermediate Software Development Reading Notes
+## Code 201 - Intro to Software Development
 
-## Code 201 - Foundations of Software Development Reading Notees
+### Table of Contents
+
+- [Class 1 Reading](read1.md)
+- [Class 2 Reading](read2.md)
+- [Class 3 Reading](read3.md)
+- [Class 4 Reading](read4.md)
+- [Class 5 Reading](read5.md)
+- [Class 6 Reading](read6.md)
+- [Class 7 Reading](read7.md)
+- [Class 8 Reading](read8.md)
+
+
+
+## Code 201 - Foundations of Software Development 
 
 - [Class 1 Reading](class-01.md)
 - [Class 2 Reading](class-02.md)
@@ -23,19 +36,11 @@
 - [Class 14b Reading](class-14b.md)
 - [Class 15 Reading](class-15.md)
 
+## Code 301 - Intermediate Software Development 
 
-### Table of Contents
 
-- [Class 1 Reading](read1.md)
-- [Class 2 Reading](read2.md)
-- [Class 3 Reading](read3.md)
-- [Class 4 Reading](read4.md)
-- [Class 5 Reading](read5.md)
-- [Class 6 Reading](read6.md)
-- [Class 7 Reading](read7.md)
-- [Class 8 Reading](read8.md)
 
-### Code 401 - Advanced Software Development Reading Notes
+### Code 401 - Advanced Software Development 
 
 ## Resources Used
 
