@@ -23,7 +23,6 @@
 - [Class 14b Reading](class-14b.md)
 - [Class 15 Reading](class-15.md)
 
-### Code 201 - Foundations of Software Development Reading Notes
 
 ### Table of Contents
 
