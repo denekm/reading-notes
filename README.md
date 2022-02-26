@@ -17,7 +17,7 @@
 
 
 
-## Code 201 - Foundations of Software Development 
+## Code 201 - Foundations of Software Development
 
 - [Class 1 Reading](class-01.md)
 - [Class 2 Reading](class-02.md)
@@ -36,11 +36,12 @@
 - [Class 14b Reading](class-14b.md)
 - [Class 15 Reading](class-15.md)
 
-## Code 301 - Intermediate Software Development 
+## Code 301 - Intermediate Software Development
+
+- [Class 1 Reading](read01.md)
 
 
-
-## Code 401 - Advanced Software Development 
+## Code 401 - Advanced Software Development
 
 ## Resources Used
 
