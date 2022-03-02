@@ -19,24 +19,24 @@
 
 4.What does componentDidMount do?
 
-* componenetDidMount is used to load using network request or in order to initalize the DOM
+* componenetDidMount is used to load using network requests or in order to initialize the DOM
 
 ## Notes
 
-- The three phases of the component lifecycle are mounting, updating and unmounting
+- The three phases of the component lifecycle are mounting, updating, and unmounting
 - During the ***mounting*** phase a particular of the component is created & it is placed to the DOM
-- ***Updating*** - when a componenet is being updated it is rerendered
+- ***Updating*** - when a component is being updated it is rerendered
 - ***Unmounting*** - componenetWillUnmount
 
 ## [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
 1. What types of things can you pass in the props?
 
-* Intial items, titles and subtitles, 
+* Initial items, titles, and subtitles, 
 
 2.What is the big difference between props and state?
 
-* We pass props into a component while state is managed inside of that component. Porps are managed outside of that component
+* We pass props into a component while state is managed inside of that component. Props are managed outside of that component
 
 3.When do we re-render our application?
 
