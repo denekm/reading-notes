@@ -38,7 +38,8 @@
 
 - [Class 1 Reading](read01.md)
 - [Class 2 Reading](read02.md)
-
+- [Class 3 Reading](read03.md)
+- [Class 4 Reading](read04.md)
 
 
 ## Code 401 - Advanced Software Development
