@@ -6,16 +6,14 @@
 
 ### Table of Contents
 
-- [Class 1 Reading](read1.md)
-- [Class 2 Reading](read2.md)
-- [Class 3 Reading](read3.md)
-- [Class 4 Reading](read4.md)
-- [Class 5 Reading](read5.md)
-- [Class 6 Reading](read6.md)
-- [Class 7 Reading](read7.md)
-- [Class 8 Reading](read8.md)
-
-
+- [Class 1 Reading](102class01.md)
+- [Class 2 Reading](102class02.md)
+- [Class 3 Reading](102class03.md)
+- [Class 4 Reading](102class04.md)
+- [Class 5 Reading](102class05.md)
+- [Class 6 Reading](102class06.md)
+- [Class 7 Reading](102class07.md)
+- [Class 8 Reading](102class08.md)
 
 ## Code 201 - Foundations of Software Development
 
