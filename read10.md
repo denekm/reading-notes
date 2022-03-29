@@ -44,6 +44,6 @@ would need to be invoked to generate that call stack.
 
 *A breakpoint is used in debugging in order to help us find bugs in our code
 
-6. What does the word ‘debugger’ do in your code?
+6.What does the word ‘debugger’ do in your code?
 
 *It shows us the history
