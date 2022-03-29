@@ -30,7 +30,7 @@ would need to be invoked to generate that call stack.
 
 2.What is a ‘syntax error’?
 
-*Syntax error occurs when the code can't be parsed
+*Example of when syntax error occurs:  when the code we wrote can't be parsed
 
 3 What is a ‘range error’?
 
@@ -46,4 +46,4 @@ would need to be invoked to generate that call stack.
 
 6.What does the word ‘debugger’ do in your code?
 
-*It shows us the history
+*Stops the code from running
