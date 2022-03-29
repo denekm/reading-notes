@@ -28,22 +28,22 @@ would need to be invoked to generate that call stack.
 *Reference erros occur when we are try using a variable that has noe been declared
 `Uncaught ReferenceError: Joe is not defined`
 
-2. What is a ‘syntax error’?
+2.What is a ‘syntax error’?
 
-* Syntax error occurs when the code can't be parsed
+*Syntax error occurs when the code can't be parsed
 
-3. What is a ‘range error’?
+3 What is a ‘range error’?
 
-* Range error occurs when the length is invalid
+*Range error occurs when the length is invalid
 
-4. What is a ‘type error’?
+4.What is a ‘type error’?
 
-* Type error occurs when the types we are trying to access doesn't match
+*Type error occurs when the types we are trying to access doesn't match
 
-5. What is a breakpoint?
+5.What is a breakpoint?
 
-*A breakpoint is used in debugging in order to help us find bugs in our code 
+*A breakpoint is used in debugging in order to help us find bugs in our code
 
 6. What does the word ‘debugger’ do in your code?
 
-* It shows us the history 
+*It shows us the history
