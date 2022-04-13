@@ -34,6 +34,10 @@
 - [Class 14b Reading](class-14b.md)
 - [Class 15 Reading](class-15.md)
 
+## Resources Used
+
+- Duckett, John. “HTML &amp; CSS: Design and Build Websites.” Amazon, John Wiley and Sons, 2014.
+
 ## Code 301 - Intermediate Software Development
 
 - [Class 1 Reading](read01.md)
@@ -49,7 +53,3 @@
 - [Class 11 Reading](read11.md)
 - [Class 12 Reading](read12.md)
 ## Code 401 - Advanced Software Development
-
-## Resources Used
-
-- Duckett, John. “HTML &amp; CSS: Design and Build Websites.” Amazon, John Wiley and Sons, 2014.
