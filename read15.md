@@ -29,18 +29,31 @@
 * OpenID is used for authentication
 
 [Authentication and Authorization Flows](https://auth0.com/docs/get-started/authentication-and-authorization-flow)
+
 1. What is the difference between authorization and authentication?
 
 * Authenication uses OpenID
+
 2.What is Authorization Code Flow?
+
 * Authorization Code Flow is what exchanges an authorization code for a token
+
 3.What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
+
 * PKCE is what helps mitigate additonal security on apps as well as other challenges
+
 4.What is Implicit Flow with Form Post?
+
 * It is for public apps that are not able to securely store client secrets. (this is not the best practice)
+
 5.What is Client Credentials Flow?
+
 * Client credentials flow authenticates and authorizes the app instead of the user
+
 6.What is Device Authorization Flow?
+
 * The devices gives the user a link to click on and authorize
+
 7.What is Resource Owner Password Flow?
+
 * Requests the client to provide their password and username
