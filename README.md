@@ -55,4 +55,8 @@
 - [Class 13 Reading](read13.md)
 - [Class 14 Reading](read14.md)
 - [Class 15 Reading](read15.md)
+
 ## Code 401 - Advanced Software Development
+
+- [Growth Mindset](growth-mindset.md)
+- [Class 1 Reading](401read01.md]
