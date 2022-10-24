@@ -59,4 +59,5 @@
 ## Code 401 - Advanced Software Development
 
 - [Growth Mindset](growth-mindset.md)
-- [Class 1 Reading](401read01.md]
+- [Class 1 Reading](401read01.md)
+
