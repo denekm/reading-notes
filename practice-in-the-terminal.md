@@ -11,8 +11,8 @@ An example of a prompt: **user@bash:**
 
 ## ***More About Files***
 
-- In linux everything is a file.
-- **file.exe** means the file is an exutable file
+- In  Linux, everything is a file.
+- **file.exe** means the file is an executable file
 - **file.txt** means the file is a plain text file
 - **file.png, file.gif, file.jpg** means the file is an image
 
@@ -20,7 +20,7 @@ An example of a prompt: **user@bash:**
 
 ## ***Manual Pages***
 
-- To invoke the mannual pages we use this command - **man <<command to look up**"
+- To invoke the manual pages we use this command - **man <<command to look up**"
 
 ## ***File Manipulation***
 
@@ -33,4 +33,4 @@ An example of a prompt: **user@bash:**
 
 ### Sources
 
-- [Bash Command Line Turtorials](https://ryanstutorials.net/linuxtutorial/)
+- [Bash Command Line Tutorials](https://ryanstutorials.net/linuxtutorial/)
