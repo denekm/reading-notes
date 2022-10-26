@@ -61,3 +61,4 @@
 - [Growth Mindset](growth-mindset.md)
 - [Data Structures and Algorithms](data-structures%26-algo.md)
 - [Class 1 Reading](401read01.md)
+- [Practice in the Terminal](practice-in-the-terminal.md)
