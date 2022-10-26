@@ -1,5 +1,8 @@
 # Growth Mindset
 
+- It is important to push ourselves out of our comfort zone one way we can do this is by deliberate practice.
+- Repetition is key to learning something new
+
 ## If there are no questions provided, summarize and explain this topic via an analogy from your previous work or home experience
 
 - In there article titled "Upgrade your technical skills with deliberate practice" there is a point made about building software program everyday helps us improve our hard technical skills. Thinking back to my first time coding in my 102 class to now, I see so much improvment on the apps I have built over the months. I first started off by learning HTML and CSS, so my apps could not do much. Over time ad I was exposed to different technologies I have made so much progress. Running into different bugs has also really helped me improve my technical skills.
