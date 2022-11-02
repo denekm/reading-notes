@@ -67,7 +67,6 @@
 - [Class 4 Reading](401read04.md)
 - [Class 5 Reading](401read05.md)
 - [Class 6 Reading](401read06.md)
-- [Class 7 Reading](401read07.md)
 - [Class 8 Reading](401read08.md)
 - [Class 9 Reading](401read09.md)
 - [Class 10 Reading](401read10.md)
